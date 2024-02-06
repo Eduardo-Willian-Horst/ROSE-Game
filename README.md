@@ -9,7 +9,8 @@ Este projeto foi iniciado como uma brincadeira. Onde alguns dos meus amigos teri
 ## Instalação
 
 1. Clone este repositório.
-2. Abra a pasta BUILD.
+2. Basta buildar.
+3. Entrar na pasta com a build do jogo.
 4. Execute o arquivo `ROSE - Uma aventura no Castelo`.
 
 ## Contato
